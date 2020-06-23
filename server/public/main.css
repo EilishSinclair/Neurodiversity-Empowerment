@@ -100,3 +100,16 @@
     border-radius: 8px;
     margin-left: 10px;
   }
+
+  ul {
+    list-style-type: none;
+    margin: auto;
+    padding: 5px 10px; 
+    overflow: hidden;
+    background-color: #dbaeae;
+  }
+
+  /* Going to add a login button here that will be displayed on the right side */
+  li {  
+    float: left;
+  }
