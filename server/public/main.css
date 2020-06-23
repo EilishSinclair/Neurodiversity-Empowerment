@@ -113,3 +113,21 @@
   li {  
     float: left;
   }
+
+  /* text-decoration: none; (This removes the underline) */
+  li a {
+    display: grid;
+    color: black;
+    text-align: center;
+    padding: 14px 40px;
+    border-radius: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    transition-duration: 0.4s;
+  }
+
+  /* Change the link color to light pink on hover */
+  li a:hover {
+    background-color: teal;
+    color: white;
+  }
