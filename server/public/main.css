@@ -126,8 +126,15 @@
     transition-duration: 0.4s;
   }
 
-  /* Change the link color to light pink on hover */
   li a:hover {
     background-color: #d4c0af;
     color: black;
   }
+
+  .header {
+    padding: 01px;
+    text-align: center;
+    background-color: #d4c0af;
+  }
+
+  
