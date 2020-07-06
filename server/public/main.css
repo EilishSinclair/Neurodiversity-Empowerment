@@ -128,6 +128,6 @@
 
   /* Change the link color to light pink on hover */
   li a:hover {
-    background-color: teal;
-    color: white;
+    background-color: #d4c0af;
+    color: black;
   }
