@@ -4,7 +4,7 @@ export class App extends Component {
   render () {
     return (
       <div>
-        <h1>Hello and welcome to React</h1>
+        <h1>Welcome to Neurodiversity Empowerment 🥰</h1>
       </div>
     )
   }
