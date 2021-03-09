@@ -22,4 +22,4 @@ As MVP I will start with a list of four Neurodiversities with the intention to s
 React, API’s, HTML, CSS, JavaScript and Node. 
 
 ## Under Construction 
-![](images/Neurodiversity Empowerment.png)
+![](images/Neurodiversity%20Empowerment.png)
